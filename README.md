@@ -1,4 +1,4 @@
-![Header] (https://github.com/PasNastya/PasNastya/blob/main/assets/qa.jpg)
+![Header](https://github.com/PasNastya/PasNastya/blob/main/assets/qa.jpg)
 
 About me
 
