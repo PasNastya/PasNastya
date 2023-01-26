@@ -21,7 +21,7 @@
 - [Checklists](https://github.com/PasNastya/Checklists)
 - [Test-Suites and Test-Cases](https://github.com/PasNastya/Test-Suites-and-Test-Cases)
 - [Bug-Reports](https://github.com/PasNastya/Bug-Reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
+- [MySQL](https://github.com/PasNastya/MySQL)
 - [Postman Collections](https://github.com/PasNastya/Postman-Collections)
 
 ### Follow Me
