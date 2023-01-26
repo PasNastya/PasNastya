@@ -1,4 +1,4 @@
-![Header](https://github.com/PasNastya/PasNastya/blob/main/assets/qa.jpg)
+![Header](https://github.com/PasNastya/PasNastya/blob/main/assets/quote-2023-01-26-d7c55a2eb317d98a547bdaff5ed3bcc0.jpg)
 
 ## I`m a beginner Quality Assurance engineer
 
