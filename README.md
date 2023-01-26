@@ -18,11 +18,11 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
+- [Checklists](https://github.com/PasNastya/Checklists)
+- [Test-Suites and Test-Cases](https://github.com/PasNastya/Test-Suites-and-Test-Cases)
+- [Bug-Reports](https://github.com/PasNastya/Bug-Reports)
 - [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Postman Collections](https://github.com/PasNastya/Postman-Collections)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://instagram.com/anastasia_pas._?igshid=OGQ2MjdiOTE=)
