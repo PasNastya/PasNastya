@@ -2,7 +2,7 @@
 
 ## I`m a beginner Quality Assurance engineer
 
-[Link to my CV 👈🏼](https://drive.google.com/file/d/1mv2VbMAdR-2hx3BhZzLfuseBUBVoiwRT/view?usp=share_link)
+[Link to my CV 👈🏼](https://drive.google.com/file/d/166dLMpqKyf9YgfNEr78bt2r0SVHWqA3k/view?usp=sharing)
 --
 
 ### Languages and Tools
