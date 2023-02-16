@@ -2,6 +2,9 @@
 
 ## I`m a beginner Quality Assurance engineer
 
+[Link to my CV 👈🏼](https://drive.google.com/file/d/1mv2VbMAdR-2hx3BhZzLfuseBUBVoiwRT/view?usp=share_link)
+--
+
 ### Languages and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
@@ -22,6 +25,11 @@
 - [Bug-Reports](https://github.com/PasNastya/Bug-Reports)
 - [MySQL](https://github.com/PasNastya/MySQL)
 - [Postman Collections](https://github.com/PasNastya/Postman-Collections)
+
+### Licenses & certifications
+
+[Certificate 👈🏼](https://v2.coreapp.ai/certificate/pdf/63e9f41f883902f8fe04e515)
+--
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://instagram.com/anastasia_pas._?igshid=OGQ2MjdiOTE=)
